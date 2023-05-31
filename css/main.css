@@ -64,12 +64,17 @@ form button {
   border: 2px solid black;
   padding: 1rem;
   text-transform: uppercase;
+  margin-bottom: 20px;
 }
 
 .site-footer {
   padding: 2rem 0;
 }
 
-a {
+.skiplink {
   text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 5px;
+  border: 1px black;
 }
